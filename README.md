@@ -1,6 +1,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="500" />
 
-
 # NETFLIX Clone
 
 Build the NETFLIX CLONE with REACT
