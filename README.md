@@ -15,7 +15,6 @@ Desktop           |  Mobile
  - [React](https://reactjs.org/)
  - [TheMovieDB (Api Movies)](https://api.themoviedb.org/)
 
-
 ## Run Locally
 
 Clone the project
